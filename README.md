@@ -14,3 +14,5 @@ Everything was developed and drawn by myself, with the exception of the assets m
 [Menu icon] (http://www.flaticon.com/free-icon/menu_149176#term=menu&page=1&position=1)
 
 [Varela font](https://fonts.google.com/specimen/Varela)
+
+Music from Cave Story
